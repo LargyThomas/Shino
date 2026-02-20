@@ -17,3 +17,16 @@ Hi, I'm Thomas. You might recognize me as GitHub's mascot.
 |     1| JavaScript|
 |     2| Python    |
 |     3| SQL       |
+
+
+
+<details>
+<summary>My top languages</summary>
+
+| Rank | Languages |
+|-----:|-----------|
+|     1| JavaScript|
+|     2| Python    |
+|     3| SQL       |
+
+</details>
