@@ -1,32 +1,69 @@
-# About me
+# Hi, I'm Shino 👋
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://user-images.githubusercontent.com/25423296/163456776-7f95b81a-f1ed-45f7-b7ab-8fa810d529fa.png">
-  <source media="(prefers-color-scheme: light)" srcset="https://user-images.githubusercontent.com/25423296/163456779-a8556205-d0a5-45e2-ac17-42d089e3c3f8.png">
-  <img alt="Shows an illustrated sun in light mode and a moon with stars in dark mode." src="https://user-images.githubusercontent.com/25423296/163456779-a8556205-d0a5-45e2-ac17-42d089e3c3f8.png">
-</picture>
+> *"I want to bring imagination to life and create experiences that make players smile."*
 
+I'm a **Computer Science Bachelor student** with a passion for game development and technology.  
+Currently building my skills, one project at a time.
 
+---
 
+## 🎯 What I'm Looking For
 
-Hi, I'm Thomas. You might recognize me as GitHub's mascot.
+I'm open to **internship or apprenticeship opportunities** in:
+- 🎮 Game Development
+- 🔐 Cybersecurity / CyberTech
+- 🌐 Web Development
 
+---
 
-| Rank | Languages |
-|-----:|-----------|
-|     1| JavaScript|
-|     2| Python    |
-|     3| SQL       |
+## 🧑‍💻 About Me
 
+- 🎓 Currently studying **Computer Science (Bachelor)**
+- 🌱 Learning **JavaScript, HTML & CSS**
+- 🗂️ Previously worked with **Python, C and Ruby**
+- 🎮 Goal: become a **Game Developer** and craft worlds players love to explore
+- 🚧 Projects under construction — stay tuned!
 
+---
 
-<details>
-<summary>My top languages</summary>
+## 🛠️ Tech Stack
 
-| Rank | Languages |
-|-----:|-----------|
-|     1| JavaScript|
-|     2| Python    |
-|     3| SQL       |
+**Currently learning**
 
-</details>
+![HTML](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
+![CSS](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+
+**Also explored**
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![C](https://img.shields.io/badge/C-00599C?style=flat-square&logo=c&logoColor=white)
+![Ruby](https://img.shields.io/badge/Ruby-CC342D?style=flat-square&logo=ruby&logoColor=white)
+
+---
+
+## 🚀 Projects
+
+> 🔨 I'm currently working on my first projects. Check back soon!
+
+---
+
+## 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Shino&show_icons=true&theme=default&hide_border=true&count_private=true" height="150"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Shino&layout=compact&theme=default&hide_border=true" height="150"/>
+</p>
+
+---
+
+## 📫 Let's Connect
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/TON_PROFIL)
+[![Email](https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:TON_EMAIL)
+
+---
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=Shino&style=flat-square&color=grey" alt="Profile views"/>
+</p>
