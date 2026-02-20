@@ -10,19 +10,19 @@ Currently building my skills, one project at a time.
 ## 🎯 What I'm Looking For
 
 I'm open to **internship or apprenticeship opportunities** in:
-- 🎮 Game Development
-- 🔐 Cybersecurity / CyberTech
-- 🌐 Web Development
+- Game Development
+- Cybersecurity / CyberTech
+- Web Development
 
 ---
 
 ## 🧑‍💻 About Me
 
-- 🎓 Currently studying **Computer Science (Bachelor)**
-- 🌱 Learning **JavaScript, HTML & CSS**
-- 🗂️ Previously worked with **Python, C and Ruby**
-- 🎮 Goal: become a **Game Developer** and craft worlds players love to explore
-- 🚧 Projects under construction — stay tuned!
+- Currently studying **Computer Science (Bachelor)**
+- Learning **JavaScript, HTML & CSS**
+- Previously worked with **Python, C and Ruby**
+- Goal: become a **Game Developer** and craft worlds players love to explore
+- Projects under construction — stay tuned!
 
 ---
 
