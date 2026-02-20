@@ -1,4 +1,4 @@
-# Hi, I'm Shino 👋
+# Hi, I'm Shino 👋🏼
 
 > *"I want to bring imagination to life and create experiences that make players smile."*
 
@@ -11,7 +11,7 @@ Currently building my skills, one project at a time.
 
 I'm open to **internship or apprenticeship opportunities** in:
 - Game Development
-- Cybersecurity / CyberTech
+- Cybersecurity
 - Web Development
 
 ---
@@ -22,7 +22,7 @@ I'm open to **internship or apprenticeship opportunities** in:
 - Learning **JavaScript, HTML & CSS**
 - Previously worked with **Python, C and Ruby**
 - Goal: become a **Game Developer** and craft worlds players love to explore
-- Projects under construction — stay tuned!
+- 🚧 Projects under construction — stay tuned !
 
 ---
 
