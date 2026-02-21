@@ -1,40 +1,40 @@
-# Hi, I'm Shino 👋🏼
+# Salut, je suis Shino 👋🏼
 
-> *"I want to bring imagination to life and create experiences that make players smile."*
+> *"Je veux donner vie à l'imagination et créer des expériences qui font sourire les joueurs."*
 
-I'm a **Computer Science Bachelor student** with a passion for game development and technology.  
-Currently building my skills, one project at a time.
-
----
-
-## 🎯 What I'm Looking For
-
-I'm open to **internship or apprenticeship opportunities** in:
-- Game Development
-- Cybersecurity
-- Web Development
+Je suis étudiant en **Bachelor Informatique**, passionné par le développement de jeux vidéo et la technologie.  
+Je construis mes compétences, un projet à la fois.
 
 ---
 
-## 🧑‍💻 About Me
+## 🎯 Ce que je recherche
 
-- Currently studying **Computer Science (Bachelor)**
-- Learning **JavaScript, HTML & CSS**
-- Previously worked with **Python, C and Ruby**
-- Goal: become a **Game Developer** and craft worlds players love to explore
-- 🚧 Projects under construction — stay tuned !
+Je suis ouvert aux opportunités de **stage ou d'alternance** dans :
+- 🎮 Développement de jeux vidéo
+- 🔐 Cybersécurité
+- 🌐 Développement web
+
+---
+
+## 🧑‍💻 À propos de moi
+
+- 🎓 Actuellement en **Bachelor Informatique**
+- 🌱 J'apprends **JavaScript, HTML & CSS**
+- 🗂️ J'ai aussi travaillé avec **Python, C et Ruby**
+- 🎮 Objectif : devenir **développeur de jeux vidéo** et créer des mondes que les joueurs adorent explorer
+- 🚧 Projets en cours de construction — restez connectés !
 
 ---
 
 ## 🛠️ Tech Stack
 
-**Currently learning**
+**En cours d'apprentissage**
 
 ![HTML](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
 ![CSS](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
 
-**Also explored**
+**Déjà exploré**
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![C](https://img.shields.io/badge/C-00599C?style=flat-square&logo=c&logoColor=white)
@@ -42,13 +42,13 @@ I'm open to **internship or apprenticeship opportunities** in:
 
 ---
 
-## 🚀 Projects
+## 🚀 Projets
 
-> 🔨 I'm currently working on my first projects. Check back soon!
+> 🔨 Je travaille actuellement sur mes premiers projets. Revenez bientôt !
 
 ---
 
-## 📫 Let's Connect
+## 📫 Me contacter
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/TON_PROFIL)
 [![Email](https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:largythomas@gmail.com)
@@ -56,5 +56,5 @@ I'm open to **internship or apprenticeship opportunities** in:
 ---
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Shino&style=flat-square&color=grey" alt="Profile views"/>
+  <img src="https://komarev.com/ghpvc/?username=LargyThomas&style=flat-square&color=grey" alt="Vues du profil"/>
 </p>
