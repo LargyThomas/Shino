@@ -18,10 +18,10 @@ Je suis ouvert aux opportunités de **stage ou d'alternance** dans :
 
 ## 🧑‍💻 À propos de moi
 
-- 🎓 Actuellement en **Bachelor Informatique**
-- 🌱 J'apprends **JavaScript, HTML & CSS**
-- 🗂️ J'ai aussi travaillé avec **Python, C et Ruby**
-- 🎮 Objectif : devenir **développeur de jeux vidéo** et créer des mondes que les joueurs adorent explorer
+- Actuellement en **Bachelor Informatique**
+- J'apprends **JavaScript, HTML & CSS**
+- J'ai aussi travaillé avec **Python, C et Ruby**
+- Objectif : devenir **développeur de jeux vidéo** et créer des mondes que les joueurs adorent explorer
 - 🚧 Projets en cours de construction — restez connectés !
 
 ---
